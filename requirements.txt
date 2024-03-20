@@ -1,0 +1,16 @@
+openmeteo-requests
+requests-cache
+retry-requests
+pandas
+numpy
+azure.cognitiveservices.speech
+python-dotenv==1.0.1
+fastapi
+uvicorn
+setuptools 
+wheel
+spacy[apple]
+spaCy >= 3.4.0
+pygls >= 1.0.0
+Stt_module 
+geopy.geocoders
